@@ -1,12 +1,6 @@
-coreapi==1.32.0
 Django==1.10
-django-rest-swagger==2.0.4
 djangorestframework==3.4.4
+uWSGI==2.0.13.1
 djangorestframework-jsonp==1.0.2
 djangorestframework-yaml==1.0.3
-itypes==1.1.0
-openapi-codec==1.0.0
 PyYAML==3.11
-requests==2.11.0
-simplejson==3.8.2
-uritemplate==0.6

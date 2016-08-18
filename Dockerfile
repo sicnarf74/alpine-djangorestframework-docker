@@ -15,6 +15,7 @@ RUN apk add --update \
     && apk del \
         build-base \
         linux-headers \
+        py-pip \
     && rm -rf /var/cache/apk/*
 
 ENV APP_DIR /app
